@@ -1,0 +1,20 @@
+{"frames": {
+
+"Run (32x32).png":
+{
+	"frame": {"x":0,"y":0,"w":384,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":32},
+	"sourceSize": {"w":384,"h":32}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "pinkman.png",
+	"format": "RGBA8888",
+	"size": {"w":384,"h":32},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b12774ec334be7be0d36b0723f3d155f:a1d63114d385b525b9fe778f8f780781:ff6f3cf84e11322ac1b55ba224a3dea5$"
+}
+}
